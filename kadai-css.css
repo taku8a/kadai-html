@@ -27,13 +27,9 @@ header{
 #menu{
     background-color: #ccccff;
     width: 300px;
-    justify-content: center;
     
 }
 
-li{
-    list-style-position: inside;
-}
 
 footer{
     background-color: #ffccff;
